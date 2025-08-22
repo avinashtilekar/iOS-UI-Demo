@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("iOS UI Demo")
+            Text("Avinash iOS UI Demo")
         }
         .padding()
     }
